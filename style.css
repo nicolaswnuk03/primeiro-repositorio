@@ -9,7 +9,9 @@ body {
     text-align: center;
 }
 
-h1 {}
+footer{
+    text-align: end;
+}
 
 h2 {
     color: mediumblue;
@@ -22,4 +24,3 @@ h2 {
     padding: 10px;
 
 }
-
