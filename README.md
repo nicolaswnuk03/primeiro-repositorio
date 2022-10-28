@@ -1,1 +1,0 @@
-# TEXTO SOBRE SOJA
